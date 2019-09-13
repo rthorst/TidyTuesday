@@ -147,3 +147,31 @@ ggsave(filename="celeb_means.png", plot=p, height=4, width=4)
 # geom_main <- geom_line(color="black", size=3)
 # ggplot(data = df_plot, ggplot2::aes(x=season, y=percent_male)) + geom_main
 
+##################### Wikipedia API ###############################################
+
+
+CheckIfWikipediaArticleExists <- function(s) {
+  
+  base_url <- "https://en.wikipedia.org/w/api.php?action=opensearch&limit=1&search="
+  query_url <- paste(base_url, s) %>% 
+    gsub(" ", "", .)
+  
+  description <- httr::GET(query_url) %>% 
+    httr::content() %>% 
+    .[[3]] 
+
+  return (as.integer(length(description) > 0))
+}
+
+simpsons$HasWikipediaArticle <- lapply(simpsons$role, CheckIfWikipediaArticleExists)
+has_wikipedia_article <- c()
+for (v in simpsons$HasWikipediaArticle) {
+  has_wikipedia_article <- append(has_wikipedia_article, v[[1]])
+}
+simpsons$HasWikipediaArticle <- has_wikipedia_article
+
+male <- simpsons[simpsons$male == 1, ]
+female <- simpsons[simpsons$male == 0, ]
+male_wiki_avg <- mean(male$HasWikipediaArticle)
+female_wiki_avg <- mean(female$HasWikipediaArticle)
+
