@@ -1,6 +1,6 @@
 This #TidyTuesday challenged us to explore national park data.
 
-FiveThirtyEight had reported that national parks are "have never been more popular."
+FiveThirtyEight had reported that national parks "have never been more popular." https://fivethirtyeight.com/features/the-national-parks-have-never-been-more-popular/
 
 ![FiveThirtyEight's Results](fivethirtyeight_fig.png)
 
