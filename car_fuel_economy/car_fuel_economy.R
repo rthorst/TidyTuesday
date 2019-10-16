@@ -41,7 +41,7 @@ ggthemr::ggthemr()
 p <- ggplot(plot_df, aes(x=Year, y=MPG, col=Road)) + 
   geom_line(size=2) + 
   theme(panel.grid = element_blank()) + 
-  ylab("MPG (Adjusted for # Electric Vehicles") + 
+  ylab("MPG, Adjusted for # Electric Vehicles") + 
   labs(color = "Road Type") # legend title.
 
 ggsave(filename="fig.png", plot=p, height=4, width=4)
