@@ -8,7 +8,9 @@
 
 ---
 
-I often try to bring a more sophisticated statistical approach to published claims. Sometimes, I find these claims are not correct. For example, the website FiveThirtyEight claimed that "National Parks have never been so popular" as the present. I suspected that the results could be due to the fact that population has grown rapidly in the US. When the results are normalized by population (red line), I find that national parks have actually been growing less popular since the 1990s. 
+## National Parks are Declining in Popularity
+
+(The key is to correct for growing population -- red line). 
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/national_parks/fig.png)
 
