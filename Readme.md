@@ -14,4 +14,4 @@ As another example, there were claims that US schools are becoming more diverse 
 
 One of the more interesting analyses was a dataset of weightlifting competitions, which I discovered included data about lifters who had been disqualified for performance-enhancing drugs! As a lifelong sports fan, I have always wondered how much these drugs actually improve athlete performance, and weightlifting seems the purest test of their effect. I was able to show that performance-enhancing drugs added almost 40kg to a lifter's bench press, a finding that remained (although with roughly half the effect size) in regression models for age and gender. 
 
-[alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/powerlifting/fig.png)
+![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/powerlifting/fig.png)
