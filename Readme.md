@@ -4,6 +4,9 @@
 
 ## Gender bias in guest stars on the Simpsons (gender imputed using an API)
 
+code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
+
+
 ![alt_text](https://github.com/rthorst/TidyTuesday/blob/master/simpsons/celeb_means.png)
 
 ---
