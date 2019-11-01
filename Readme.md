@@ -9,7 +9,6 @@ Code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
 
 ![alt_text](https://github.com/rthorst/TidyTuesday/blob/master/simpsons/celeb_means.png)
 
----
 
 ## National Parks are Declining in Popularity
 
@@ -17,7 +16,6 @@ Code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/national_parks/fig.png)
 
----
 
 ## School Diversity is Constant Across States
 
@@ -25,7 +23,6 @@ US schools are growing more diverse over time - but, the most diverse states fro
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/school_diversity/fig.png)
 
----
 
 ## Performance-Enhancing Drugs Really Do Help! (+40 kg bench press)
 
