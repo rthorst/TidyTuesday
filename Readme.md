@@ -14,7 +14,11 @@
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/national_parks/fig.png)
 
-As another example, there were claims that US schools are becoming more diverse over time. While this is true, I suspected that this pattern could be explained in part by the very same schools that are already diverse becoming even more diverse, while those schools that lag behind continuing to lag behind. Supporting this idea, I found that US states with more diverse schools in the 1990s were the same states with more diverse schools in the 2010s, although future analyses should be conducted on individual schools rather than states. 
+---
+
+## School Diversity is Constant Across States
+
+US schools are growing more diverse over time - but, the most diverse states from the 1990s still have the most diverse schools today. l
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/school_diversity/fig.png)
 
