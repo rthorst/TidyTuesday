@@ -18,4 +18,4 @@ One of the more interesting analyses was a dataset of weightlifting competitions
 
 Finally, I had the chance to explore data about car fuel economy over time. I wondered whether cars are becoming more fuel efficient, on average, simply because of the growth of electric cars (I verified this is not the case using regression models). The most interesting finding, however, is that the gains in fuel economy are most prominent for certain types of driving. Cars are becoming fuel efficient on the highway much faster than they are in city driving: a fact I verify below by plotting regression slopes. 
 
-[alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/car_fuel_economy/fig.png)
+![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/car_fuel_economy/fig.png)
