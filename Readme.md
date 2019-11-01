@@ -4,7 +4,7 @@
 
 ## Gender bias in guest stars on the Simpsons (gender imputed using an API)
 
-code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
+Code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
 
 
 ![alt_text](https://github.com/rthorst/TidyTuesday/blob/master/simpsons/celeb_means.png)
@@ -13,7 +13,7 @@ code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
 
 ## National Parks are Declining in Popularity
 
-(The key is to correct for growing population -- red line). 
+(The key is to correct for growing population -- red line). Code: https://github.com/rthorst/TidyTuesday/tree/master/national_parks
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/national_parks/fig.png)
 
@@ -21,7 +21,7 @@ code: https://github.com/rthorst/TidyTuesday/tree/master/simpsons
 
 ## School Diversity is Constant Across States
 
-US schools are growing more diverse over time - but, the most diverse states from the 1990s still have the most diverse schools today. 
+US schools are growing more diverse over time - but, the most diverse states from the 1990s still have the most diverse schools today. Code: https://github.com/rthorst/TidyTuesday/tree/master/school_diversity
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/school_diversity/fig.png)
 
@@ -29,12 +29,12 @@ US schools are growing more diverse over time - but, the most diverse states fro
 
 ## Performance-Enhancing Drugs Really Do Help! (+40 kg bench press)
 
-The effect remains controlling for age, gender
+The effect remains controlling for age, gender. Code: https://github.com/rthorst/TidyTuesday/tree/master/powerlifting
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/powerlifting/fig.png)
 
 ## Cars are Getting More Fuel-Efficient, but Mostly on the Highway
 
-Verfied by regression: slopes below. 
+Verfied by regression: slopes below. Code: https://github.com/rthorst/TidyTuesday/tree/master/car_fuel_economy
 
 ![alt_text](https://raw.githubusercontent.com/rthorst/TidyTuesday/master/car_fuel_economy/fig.png)
